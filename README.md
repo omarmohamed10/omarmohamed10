@@ -22,12 +22,6 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,postman,swagger,sqlserver,redis,git,html,css,js,docker,visualstudio"/>
   </p>
 
-<h3 align="left">🏆 GitHub Trophies:</h3>
-  <p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=omarmohamed10&theme=onestar&row=1&column=7"/>
-  </p>
-  <br>
-
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarmohamed10&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp; <!-- Most Used Languages -->
     <img src="https://streak-stats.demolab.com/?user=omarmohamed10&theme=highcontrast" height="120"/> <!-- GitHub Streak -->
